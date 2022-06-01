@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Deploy to Tomcat Maven Project Case Study 1
